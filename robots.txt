@@ -1,0 +1,7 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://rwistago.github.io/a/sitemap.html
+Sitemap: https://rwistago.github.io/b/sitemap.html
+Sitemap: https://rwistago.github.io/c/sitemap.html
+Sitemap: https://rwistago.github.io/d/sitemap.html
